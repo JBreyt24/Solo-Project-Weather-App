@@ -1,5 +1,6 @@
 Weather app (ClimaTrack) with full CRUD
 
+
 The idea of this app is to give users access to weather conditions as they travel or plan trips. Given that many people travel for work, this app is to help provide solution to those individuals to help stay up-to-date on weather conditions.
 
 
@@ -24,3 +25,8 @@ Bonus Features
 - Validations will be put in place so that users have to login with a already registered email
 
 (Bonus features are "stretch goals" and are not part of the main app. If time permits, only then they will be implemented)
+
+
+GitHub link:
+
+https://github.com/JBreyt24/Solo-Project-Weather-App
